@@ -1,9 +1,12 @@
 # pi-react-doctor
 
-> React Doctor skill for Pi — your coding agent stops writing bad React.
+> Pi skill wrapper for **[React Doctor](https://github.com/millionco/react-doctor)** — the deterministic React codebase scanner by [Million.co](https://million.co).
+>
+> Your coding agent stops writing bad React.
 
 [![npm](https://img.shields.io/npm/v/pi-react-doctor?color=blue)](https://www.npmjs.com/package/pi-react-doctor)
 [![license](https://img.shields.io/npm/l/pi-react-doctor)](LICENSE)
+[![upstream](https://img.shields.io/badge/upstream-millionco%2Freact--doctor-8A2BE2)](https://github.com/millionco/react-doctor)
 
 ## What it does
 
