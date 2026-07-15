@@ -1,0 +1,37 @@
+{
+  "name": "pi-react-doctor",
+  "version": "1.0.0",
+  "description": "Unofficial Pi skill wrapper for React Doctor (by Million.co) — scans React codebases for security, performance, correctness, and architecture issues.",
+  "license": "MIT",
+  "type": "module",
+  "author": "imnick <nick@imnick.it> (https://imnick.it)",
+  "keywords": [
+    "pi-package",
+    "pi",
+    "react-doctor",
+    "react",
+    "lint",
+    "diagnostics",
+    "code-quality"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imnick/pi-react-doctor.git"
+  },
+  "homepage": "https://github.com/imnick/pi-react-doctor#readme",
+  "bugs": {
+    "url": "https://github.com/imnick/pi-react-doctor/issues"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "skills/",
+    "README.md",
+    "LICENSE"
+  ],
+  "pi": {
+    "skills": ["./skills"]
+  },
+  "scripts": {}
+}
